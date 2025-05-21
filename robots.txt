@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_astro/
+
+Sitemap: https://https//yamyam2e.github.io/sitemap-index.xml
